@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
   <div>
-    Teste 02
+    Teste 03
   </div>
 </template>
 
